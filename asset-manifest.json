@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.c2de3099.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.4f7c365f.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.4f7c365f.chunk.js.map",
+    "runtime-main.js": "/reactportfolio/static/js/runtime-main.6e69836f.js",
+    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.6e69836f.js.map",
+    "static/css/2.d45d6843.chunk.css": "/reactportfolio/static/css/2.d45d6843.chunk.css",
+    "static/js/2.079648a1.chunk.js": "/reactportfolio/static/js/2.079648a1.chunk.js",
+    "static/js/2.079648a1.chunk.js.map": "/reactportfolio/static/js/2.079648a1.chunk.js.map",
+    "index.html": "/reactportfolio/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/reactportfolio/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.c2de3099.chunk.css.map": "/reactportfolio/static/css/main.c2de3099.chunk.css.map",
+    "static/js/2.079648a1.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.079648a1.chunk.js.LICENSE.txt",
+    "static/media/HLGUlogo.c0feb97f.jpeg": "/reactportfolio/static/media/HLGUlogo.c0feb97f.jpeg",
+    "static/media/PB.a8413f97.jpeg": "/reactportfolio/static/media/PB.a8413f97.jpeg",
+    "static/media/Resume.3e33c621.pdf": "/reactportfolio/static/media/Resume.3e33c621.pdf",
+    "static/media/WashUlogo.b43ef8e4.png": "/reactportfolio/static/media/WashUlogo.b43ef8e4.png",
+    "static/media/bill-reminder.8bcc8e0c.png": "/reactportfolio/static/media/bill-reminder.8bcc8e0c.png",
+    "static/media/dailyplanner.376c38b3.jpg": "/reactportfolio/static/media/dailyplanner.376c38b3.jpg",
+    "static/media/tech-blog.8b00fc3a.jpeg": "/reactportfolio/static/media/tech-blog.8b00fc3a.jpeg",
+    "static/media/telluride.da00d0fe.jpeg": "/reactportfolio/static/media/telluride.da00d0fe.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e69836f.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.079648a1.chunk.js",
+    "static/css/main.c2de3099.chunk.css",
+    "static/js/main.4f7c365f.chunk.js"
+  ]
+}

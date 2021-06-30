@@ -1,0 +1,9 @@
+.contact_footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+ul {
+  list-style-type: none;
+}

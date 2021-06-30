@@ -2,10 +2,10 @@ import React from "react";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
-import Hero from "../components/Hero";
 import PB from "../assets/PB.jpeg"
 import HLGU from "../assets/HLGUlogo.jpeg"
 import WU from "../assets/WashUlogo.png"
+import Project from "../components/Project";
 
 function Academics() {
   return (
@@ -18,23 +18,23 @@ function Academics() {
         </Row>
         <Row>
           <Col size="md-12">
-          <Hero backgroundImage={PB}>
+          <Project backgroundImage={PB}>
             <h1>Poplar Bluff Highschool</h1>
-          </Hero>
+          </Project>
           </Col>
         </Row>
         <Row>
           <Col size="md-12">
-          <Hero backgroundImage={HLGU}>
+          <Project backgroundImage={HLGU}>
             <h1>Hannibal-LaGrange University</h1>
-          </Hero>
+          </Project>
           </Col>
         </Row>
         <Row>
           <Col size="md-12">
-          <Hero backgroundImage={WU}>
+          <Project backgroundImage={WU}>
             <h1>Washington University in St. Louis</h1>
-          </Hero>
+          </Project>
           </Col>
         </Row>
       </Container>

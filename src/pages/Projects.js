@@ -2,6 +2,10 @@ import React from "react";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
+import Hero from "../components/Hero";
+import bill from "../assets/bill-reminder.png"
+import planner from "../assets/dailyplanner.jpg"
+import blog from "../assets/tech-blog.jpeg"
 
 function Projects() {
   return (
@@ -9,22 +13,34 @@ function Projects() {
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
-            <h1>About Me</h1>
+            <h1>Projects</h1>
           </Col>
         </Row>
         <Row>
           <Col size="md-12">
-            <p>
-            I was born and raised in Poplar Bluff, MO. Currently, I am an apprentice mold designer and builder at my fathers plastic injection molding
-            factory. I enjoy my profession very much because it often requires critical thinking and problem
-            solving skills. A few of the softwares I am familiar with and machines I can run include: Vero
-            VISI, Solidworks, manual lathe, bridgeport milling machine, Fadal CNC machine, Agie EDM machine, and 
-            surface grinding machine.
-            </p>
-            <p>
-            In my free time, I enjoy spending time with my wife and family, hunting, fishing, traveling, spending time outdoors, 
-            working on our family farm, riding horses, and building stuff. My most recent build was a teardrop camper.
-            </p>
+            <a href="https://bill-reminder-project2.herokuapp.com/" target="_blank" rel="noreferrer">
+            <Hero backgroundImage={bill}>
+              <h1>Bill Reminder</h1>
+            </Hero>
+            </a>
+          </Col>
+        </Row>
+        <Row>
+          <Col size="md-12">
+          <a href="https://samuel6roth.github.io/DayPlanner/" target="_blank" rel="noreferrer">
+            <Hero backgroundImage={planner}>
+              <h1>Day Planner</h1>
+            </Hero>
+          </a>
+          </Col>
+        </Row>
+        <Row>
+          <Col size="md-12">
+          <a href="https://salty-headland-05928.herokuapp.com/" target="_blank" rel="noreferrer">
+            <Hero backgroundImage={blog}>
+              <h1>Tech Blog</h1>
+            </Hero>
+          </a>
           </Col>
         </Row>
       </Container>
